@@ -1,0 +1,32 @@
+.postform {
+    margin: 1.5rem;
+    padding: 1rem;
+    border: .1rem solid #ddd;
+}
+
+.form-hint {
+    display: block;
+    margin-top: 1rem;
+    margin-bottom: .5rem;
+    font-size: small;
+    color: gray;
+}
+
+.input-title {
+    display: block;
+    padding: .5rem;
+    border: .1rem solid #eee;
+    font-size: medium;
+}
+
+.input-content {
+    width: auto;
+    padding: .5rem;
+    height: 6rem;
+    border: .1rem solid #eee;
+    font-size: medium;
+}
+
+.form-button {
+    margin-top: 1rem;
+}
