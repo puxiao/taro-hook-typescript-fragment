@@ -1,6 +1,6 @@
 # 编写一个简单的Taro入门项目
 
-参考：[aro 小程序开发大型实战（一）：熟悉的 React，熟悉的 Hooks](https://segmentfault.com/a/1190000022091448)
+参考：[Taro 小程序开发大型实战（一）：熟悉的 React，熟悉的 Hooks](https://segmentfault.com/a/1190000022091448)
 
 #### 与讲解示例不同的地方：
 
@@ -22,5 +22,5 @@ src/pages/index：用户界面
 
 tsconfig.json：新增 "paths":{"@/components/*": ["./src/components/*"]}，使用 alias 方便 pages/index 中来引入组件路径  
 
-| 补充说明：  
-| 使用 Typescript 编写 useContext + useReducer 时，没有彻底理清 TS 编写思路，在子组件使用 PostsContext 时 暂时通过 as IPostsContext 的形式来解决遇到的一些问题。
+#### 补充说明：  
+使用 Typescript 编写 useContext + useReducer 时，没有彻底理清 TS 编写思路，在子组件使用 PostsContext 时 暂时通过 as IPostsContext 的形式来解决遇到的一些问题。
