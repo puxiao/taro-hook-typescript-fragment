@@ -1,6 +1,6 @@
 # 编写一个简单的Taro入门项目
 
-参考：[aro 小程序开发大型实战（一）：熟悉的 React，熟悉的 Hooks]:https://segmentfault.com/a/1190000022091448
+参考：[aro 小程序开发大型实战（一）：熟悉的 React，熟悉的 Hooks](https://segmentfault.com/a/1190000022091448)
 
 #### 与讲解示例不同的地方：
 
