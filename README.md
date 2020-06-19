@@ -8,4 +8,4 @@
 3. 使用 Typescript 编写
 
 #### 代码片段：
-1. PostCard：一个简单的Taro入门项目
+1. [PostCard](https://github.com/puxiao/taro-hook-typescript-fragment/tree/master/postcard)：一个简单的Taro入门项目
